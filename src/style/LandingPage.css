@@ -1,0 +1,41 @@
+.myBG {
+    height: 100vh;
+    background : url("../assets/img/bg/art.jpg");
+    background-size: cover;
+}
+
+.intro {
+    height: 300px;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+
+}
+
+.tittle {
+    font-size: 3rem;
+    font-weight: 800;
+    line-height: 1;
+    text-shadow: 3px 3px rgb(20, 14, 14);
+    letter-spacing: 3px;
+}
+
+.discover {
+    height: auto;
+    background : url("../assets/img/bg/wp.jpg");
+    background-size: cover;
+}
+
+
+
+.movieImg {
+    height: auto;
+    background-color: rgb(15, 13, 13);
+    margin: 5px;
+    padding: 5px;
+}
+
+.images {
+    height : 500px;
+}
+
